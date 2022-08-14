@@ -12,6 +12,7 @@ The chart chooser is for someone who is new to visual analytics and may not know
 
 
 Why was the chart chooser developed?
+  
 
 <body>
 The chart chooser was developed because Emily's own experience and the experience of the 100s others that she has trained demonstrated that a lot of people are introduced to data visualization without a deep knowledge of the subject.  It's not just about making charts look pretty. With the chart chooser, it's the goal that the while people are learning more about data visualization, they can make good decisions about what charts to use. 
